@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="nebula_banner.svg" alt="banner" width="100%" />
+<img src="banner.png" alt="banner" width="100%" />
 
 </div>
 
@@ -17,7 +17,7 @@ I'm building fluency in **VLSI design, RTL, and digital verification** — one V
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="planet_square.svg" alt="planet" width="100%" />
+<img src="planet.png" alt="planet" width="100%" />
 
 </td>
 </tr>
