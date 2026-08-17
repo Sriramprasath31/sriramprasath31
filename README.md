@@ -1,31 +1,49 @@
 <div align="center">
 
-<img src="banner.svg" alt="Sriram banner" width="100%" />
+<img src="nebula_banner.svg" alt="banner" width="100%" />
 
 </div>
 
-Digital electronics learner focused on **VLSI design, RTL, and verification**. Practicing daily with Verilog and SystemVerilog, and building toward FPGA-based implementation.
+<br/>
 
-**Language:** `Verilog` `SystemVerilog`
-**Tools:** `Vivado` `Icarus Verilog` `GTKWave`
-**Focus:** `FPGA` `RTL Design` `Digital Verification` `VLSI Design`
+<table>
+<tr>
+<td width="65%" valign="top">
 
-<div align="center">
+### ⚡ Hey there, I'm Sriram Prasath
 
-[![GitHub](https://img.shields.io/badge/GitHub-1F1B16?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sriramprasath31)
+I'm building fluency in **VLSI design, RTL, and digital verification** — one Verilog module at a time. Daily practice, real testbenches, real waveforms, pushed to GitHub every single day.
 
-</div>
+</td>
+<td width="35%" valign="top" align="center">
+
+<img src="planet_square.svg" alt="planet" width="100%" />
+
+</td>
+</tr>
+</table>
+
+### 🚀 Currently Building
+
+`Verilog` → `SystemVerilog` → `VLSI Design` → `Verification` → `FPGA` → `Flip-Flops & Counters`
+
+### 📌 Featured Repository
+
+- **[VERILOG](https://github.com/Sriramprasath31/VERILOG)** — daily HDL practice: gates, muxes, decoders, encoders, flip-flops, and counters, with source + testbench for every module
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sriramprasath31&theme=default&background=F7F3E8&ring=2445A6&fire=2445A6&currStreakLabel=1F1B16&sideLabels=1F1B16&currStreakNum=1F1B16&sideNums=1F1B16&dates=8A8071&border=1F1B16)
+![Stats](https://github-readme-stats.vercel.app/api?username=Sriramprasath31&show_icons=true&theme=radical&hide_border=true&bg_color=050409&title_color=F14FD1&icon_color=8B5CF6&text_color=EDEAE0)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sriramprasath31&theme=radical&hide_border=true&background=050409&ring=8B5CF6&fire=F14FD1&currStreakLabel=EDEAE0)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sriramprasath31&theme=react-dark&bg_color=050409&color=F14FD1&line=8B5CF6&point=EDEAE0&hide_border=true)
 
 </div>
 
 <div align="center">
 
-Thanks for visiting ✎
+⚡ **Design. Simulate. Verify. Repeat.** ⚡
 
 </div>
