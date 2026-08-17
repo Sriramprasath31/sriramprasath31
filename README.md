@@ -27,18 +27,12 @@ I'm building fluency in **VLSI design, RTL, and digital verification** — one V
 
 `Verilog` → `SystemVerilog` → `VLSI Design` → `Verification` → `FPGA` → `Flip-Flops & Counters`
 
-### 📌 Featured Repository
-
-- **[VERILOG](https://github.com/Sriramprasath31/VERILOG)** — daily HDL practice: gates, muxes, decoders, encoders, flip-flops, and counters, with source + testbench for every module
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Sriramprasath31&show_icons=true&theme=radical&hide_border=true&bg_color=050409&title_color=F14FD1&icon_color=8B5CF6&text_color=EDEAE0)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sriramprasath31&theme=radical&hide_border=true&background=050409&ring=8B5CF6&fire=F14FD1&currStreakLabel=EDEAE0)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sriramprasath31&theme=react-dark&bg_color=050409&color=F14FD1&line=8B5CF6&point=EDEAE0&hide_border=true)
 
 </div>
 
@@ -47,3 +41,4 @@ I'm building fluency in **VLSI design, RTL, and digital verification** — one V
 ⚡ **Design. Simulate. Verify. Repeat.** ⚡
 
 </div>
+
