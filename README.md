@@ -25,7 +25,7 @@ I'm building fluency in **VLSI design, RTL, and digital verification** — one V
 
 ### 🚀 Currently Building
 
-`Verilog` → `SystemVerilog` → `VLSI Design` → `Verification` → `FPGA` → `Flip-Flops & Counters`
+`Verilog` → `SystemVerilog` → `VLSI Design` → `Verification` → `Flip-Flops & Counters`
 
 
 <div align="center">
