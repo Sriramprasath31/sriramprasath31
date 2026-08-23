@@ -34,3 +34,7 @@ I'm building fluency in **VLSI design, RTL, and digital verification** — one V
 
 </div>
 
+
+
+
+
