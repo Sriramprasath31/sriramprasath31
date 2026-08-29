@@ -14,6 +14,12 @@
 
 I'm building fluency in **VLSI design, RTL, and digital verification** — one Verilog module at a time. Daily practice, real testbenches, real waveforms, pushed to GitHub every single day.
 ECE student passionate about VLSI, Verilog, RTL design, CMOS, and DFT. Building practical skills through digital design projects and aiming for a career in the semiconductor industry.
+📚 My Learning Journey
+
+Learning every day.
+Building projects.
+Making mistakes.
+Improving continuously. 🚀
 
 </td>
 <td width="35%" valign="top" align="center">
