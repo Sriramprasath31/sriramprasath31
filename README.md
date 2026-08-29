@@ -11,9 +11,16 @@
 <td width="65%" valign="top">
 
 ### ⚡ Hey there, I'm Sriramprasath
+# 👋 Hi, I'm Sriramprasath
 
-I'm building fluency in **VLSI design, RTL, and digital verification** — one Verilog module at a time. Daily practice, real testbenches, real waveforms, pushed to GitHub every single day.
-ECE student passionate about VLSI, Verilog, RTL design, CMOS, and DFT. Building practical skills through digital design projects and aiming for a career in the semiconductor industry.
+🎓 ECE Student | 💻 VLSI Enthusiast
+🔹 Verilog | SystemVerilog | CMOS | DFT
+🔹 Digital Design & Verification
+🚀 Learning • Building • Improving
+
+🎯 Aspiring VLSI Engineer
+
+
 📚 My Learning Journey
 
 Learning every day.
