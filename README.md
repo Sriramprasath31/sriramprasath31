@@ -14,7 +14,7 @@
 # 👋 Hi, I'm Sriramprasath
 
 🎓 ECE Student | 💻 VLSI Enthusiast
-🔹 Verilog | SystemVerilog | CMOS | DFT
+🔹 DSD | Verilog | CMOS 
 🔹 Digital Design & Verification
 🚀 Learning • Building • Improving
 
