@@ -23,10 +23,7 @@
 
 📚 My Learning Journey
 
-Learning every day.
-Building projects.
-Making mistakes.
-Improving continuously. 🚀
+
 
 </td>
 <td width="35%" valign="top" align="center">
