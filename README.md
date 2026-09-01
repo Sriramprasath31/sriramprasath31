@@ -20,8 +20,8 @@
 
 🎯 Aspiring VLSI Engineer
 
+daily git pushing habit
 
-📚 My Learning Journey
 
 
 
