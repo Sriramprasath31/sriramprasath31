@@ -20,7 +20,7 @@
 
 🎯 Aspiring VLSI Engineer
 
-daily git pushing habit
+
 
 
 
