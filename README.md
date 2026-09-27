@@ -34,7 +34,7 @@
 </tr>
 </table>
 
-### 🚀 Currently Building
+
 
 `Verilog` → `SystemVerilog` → `VLSI Design` → `Verification` → `Flip-Flops & Counters`
 
